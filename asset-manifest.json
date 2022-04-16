@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.js": "./static/js/main.cf68a6e3.js",
+    "static/media/u-said-it-v13-1167.mp3": "./static/media/u-said-it-v13-1167.949cee7ea4a6ad9499db.mp3",
+    "static/media/blogbg.jpg": "./static/media/blogbg.8ca90014fb6ce5980110.jpg",
+    "static/media/spaceman.png": "./static/media/spaceman.5ec7fcfa9a803ead726c.png",
+    "static/media/Ninja-PNG.png": "./static/media/Ninja-PNG.baa575228baa38cbd816.png",
+    "index.html": "./index.html",
+    "main.cf68a6e3.js.map": "./static/js/main.cf68a6e3.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.cf68a6e3.js"
+  ]
+}
